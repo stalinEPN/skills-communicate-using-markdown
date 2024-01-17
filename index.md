@@ -5,3 +5,7 @@
 ```javascript
 var my var = "¡hola mundo!";
 ```
+## lista de tarea ##
+- [x] Crear cuenta en github
+- [x] Realizar la introduccion github
+- [ ] Realizar el curso de markdown
